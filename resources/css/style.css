@@ -1,8 +1,32 @@
 * {
   text-align: center;
   background-color: black;
+  font-family: Verdana;
 }
 
  h1 {
    color: white;
+   font-size: 50px;
+   font-weight: normal;
  }
+
+a.applink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p.features {
+  color: gray;
+  font-size: 21px;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
